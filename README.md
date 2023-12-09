@@ -1,7 +1,5 @@
 # Business-diary
 
-Certainly! Here's a textual description of the code in English:
-
 The provided C++ code is a simple diary program that allows users to add, view, delete, and search diary entries. The diary entries can be protected by a password, and the program uses basic file input/output to store and retrieve entries.
 
 1. *Data Structure:*
